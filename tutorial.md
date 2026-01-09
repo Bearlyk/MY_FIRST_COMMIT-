@@ -56,3 +56,25 @@ Like step four, as seen in the image, we give a name to our repository. Step 5, 
 ___
 ![test](/segundo_r.PNG)
 ___
+# **HOW TO MAKE YOUR FIRST COMMIT AND UPLOAD IT TO GITHUB**
+
+___
+![test](/commit1.PNG)
+___
+To start, we use the first command, which is "**git init**," and it is used to create your repository on your machine, which will only work on your machine.
+___
+![test](/commit2.PNG)
+___
+Next, we have the command "**git add**" which is used to add the file from our machine that we are working on and send it to the staging area.
+___
+![test](/commit3.PNG)
+___
+Then we use the command "**git commit -m**". This command is used to start committing the file as it is in the staging area. It commits it, and the "-m" is used so that you can put a message in quotes next to it describing what changes you made in the commit or what you added.
+___
+![test](/commit4.PNG)
+___
+In this part, as seen in the image, we use the command "**git remote add**" which is used to connect our GitHub with the Git on the machine we are working on. In the part that is in quotes, you don’t put quotation marks; just directly copy the URL of your GitHub repository.
+___
+![test](/commit5.PNG)
+___
+And as a final step, we use the command "**git push origin**" This command is used to send our completed commit to GitHub so that it can be seen how we did it, and next to 'origin' we put the name of the branch we are on so that only that change is sent.
