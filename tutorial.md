@@ -43,3 +43,16 @@ ___
 ![test](/pasofinal.PNG)
 ___
 And as seen in the image, that's how it should come out.
+
+# **HOW TO CREATE A REPOSITORY ON GITHUB**
+
+As a first step, we click on the three bars on the left side, second step we look for my repository, third step click on new repository. 
+___
+![test](/primer_r.PNG)
+___
+
+Like step four, as seen in the image, we give a name to our repository. Step 5, we see that it has the option to make it public or private. After that, we leave the other options as they are if you don't know what they are for, and as the final step, we click on where it says create repository.
+
+___
+![test](/segundo_r.PNG)
+___
