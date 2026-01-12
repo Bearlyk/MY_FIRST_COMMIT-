@@ -78,3 +78,5 @@ ___
 ![test](/commit5.PNG)
 ___
 And as a final step, we use the command "**git push origin**" This command is used to send our completed commit to GitHub so that it can be seen how we did it, and next to 'origin' we put the name of the branch we are on so that only that change is sent.
+# **How to create a new branch**
+![alt text](image.png)
